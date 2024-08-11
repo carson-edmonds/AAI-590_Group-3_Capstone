@@ -1,4 +1,4 @@
-# AAI-590 Group-3 Capstone Project
+# AAI-590 Group 3 Capstone Project
 
 ## Object Detection for Unmanned Aerial Vehicles (UAVs)  
 The main challenge facing UAVs is maintaining a safe distance from 
