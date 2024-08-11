@@ -17,9 +17,12 @@ GitHub user VuongTuanKhanh imported those files to Github for easier data manipu
 https://github.com/VuongTuanKhanh/Airborne-Object-Detection-and-Tracking  
 
 ## Files:  
-* AOT_Dataset_EDA.ipynb - Exploratory Data Analysis  
-* CNN_MODEL.ipynb - Convolutional Neural Network Model  
-* ViT_model.ipynb - Vision Transformer Model
+* AOT_Dataset_EDA.ipynb  
+  - Exploratory Data Analysis on 4,943 flight sequences of around 2 minutes each.
+* CNN_MODEL.ipynb
+  - Convolutional Neural Network Model built and trained from scratch using Keras and Tensorflow.  
+* ViT_model.ipynb
+  - Vision Transformer Model utilizing a pre-trained ImageNet dataset and fine-tuned on 100 airplane and helicopter images.  
 
 ## Authors:
 Carson Edmonds, Patricia Enrique, and Jeremy Krick  
