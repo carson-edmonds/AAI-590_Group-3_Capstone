@@ -1,4 +1,4 @@
-# AAI-590_Group-3_Capstone
+# AAI-590 Group-3 Capstone Project
 
 ## Object Detection for Unmanned Aerial Vehicles (UAVs)  
 The main challenge facing UAVs is maintaining a safe distance from 
@@ -23,6 +23,19 @@ https://github.com/VuongTuanKhanh/Airborne-Object-Detection-and-Tracking
   - Convolutional Neural Network Model built and trained from scratch using Keras and Tensorflow.  
 * ViT_model.ipynb
   - Vision Transformer Model utilizing a pre-trained ImageNet dataset and fine-tuned on 100 airplane and helicopter images.  
+
+## Methods Used
+* Computer Vision
+* Machine Learning
+* Deep Learning
+* Object Detection/Segmentation
+
+## Technologies
+* Python
+* Hugging Face
+* Keras
+* Tensorflow
+* Pytorch
 
 ## Authors:
 Carson Edmonds, Patricia Enrique, and Jeremy Krick  
